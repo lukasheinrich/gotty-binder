@@ -3,11 +3,7 @@
 pip install https://github.com/jupyterhub/nbserverproxy/archive/master.zip
 jupyter serverextension enable --py nbserverproxy
 
-npm install yarn
 
-cd theia
-../node_modules/.bin/yarn && \
-    ../node_modules/.bin/yarn theia build && \
-    rm -rf ./node_modules/electron && \
-    ../node_modules/.bin/yarn cache clean
-    
+wget https://github.com/yudai/gotty/releases/download/v2.0.0-alpha.3/gotty_2.0.0-alpha.3_linux_386.tar.gz
+tar -xzvf gotty_2.0.0-alpha.3_linux_386.tar.gz
+
