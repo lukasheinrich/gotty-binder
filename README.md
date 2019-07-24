@@ -8,4 +8,4 @@ Get a Binder shell from the command line! Just download the `binder-shell.py` sc
 $(python binder-shell.py lukasheinrich/gotty-binder)
 ```
 
-<script id="asciicast-NbIz6O1YQ0VaFNwdbWhtAvJR6" src="https://asciinema.org/a/NbIz6O1YQ0VaFNwdbWhtAvJR6.js" async></script>
+[![asciicast](https://asciinema.org/a/NbIz6O1YQ0VaFNwdbWhtAvJR6.svg)](https://asciinema.org/a/NbIz6O1YQ0VaFNwdbWhtAvJR6)
